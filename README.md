@@ -5,7 +5,7 @@ A professional-grade, responsive scientific calculator web application built wit
 
 ![Precision Calc Preview](https://picsum.photos/seed/calculator/800/400)
 
-## Features
+
 
 ### Core Functionality
 - **Standard & Scientific Modes**: Toggle between basic arithmetic and advanced functions (trigonometry, logarithms, powers, roots, constants).

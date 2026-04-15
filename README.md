@@ -1,5 +1,6 @@
 # Precision Calc
 
+
 A professional-grade, responsive scientific calculator web application built with React, TypeScript, and Tailwind CSS. Designed with a "hardware specialist tool" aesthetic, it features advanced mathematical functions, history tracking, memory operations, and a polished user experience.
 
 ### Core Functionality
